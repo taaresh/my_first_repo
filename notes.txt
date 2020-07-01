@@ -4,4 +4,5 @@ Part 2: Creat a new repo from the command line
 * use git init to initialize a new repo.
 Part 3: Tracking Changes with git
 * this is what we're working on now
-Part 4: Exploring hostory 
+Part 4: Exploring history 
+Part 5
