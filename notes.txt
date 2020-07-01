@@ -5,4 +5,4 @@ Part 2: Creat a new repo from the command line
 Part 3: Tracking Changes with git
 * this is what we're working on now
 Part 4: Exploring history 
-Part 5
+Part 5: Adding to pull something in a different location
